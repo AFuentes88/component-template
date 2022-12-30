@@ -67,3 +67,4 @@ package-lock.json
 ########################################################################
 .vscode/
 .component_template_venv/
+component-template-venv/
